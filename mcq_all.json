@@ -1,0 +1,1530 @@
+[
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 1,
+    "question": "Which organization defines the Web Standards?",
+    "choices": ["Microsoft Corporation", "IBM Corporation", "World Wide Web Consortium", "Apple Inc."],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "World Wide Web Consortium"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 2,
+    "question": "Which of the following is used to create web pages?",
+    "choices": ["HTML", "C", "JVM", "DTD"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "HTML"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 3,
+    "question": "HTML is considered as ___ language",
+    "choices": ["Programming Langauge", "OOP Language", "High Level Language", "Markup Language"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Markup Language"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 4,
+    "question": "HTML language is a set of markup ___",
+    "choices": ["Attributes", "Tags", "Sets", "Groups"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Tags"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 5,
+    "question": "HTML tags are used to describe document ____",
+    "choices": ["Definition", "Language", "Content", "None of these"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Content"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 6,
+    "question": "HTML document can contain",
+    "choices": ["Attributes", "Tags", "Plain text", "All of these"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of these"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 7,
+    "question": "Page designed in HTML is called a",
+    "choices": ["Yellow Page", "Web Page", "Server Page", "Front Page"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Web Page"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 8,
+    "question": "We can write HTML code using ____. Select appropriate option(s).",
+    "choices": ["VLC Media", "Notepad++", "Microsoft PowerPoint", "None of these"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Notepad++"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 9,
+    "question": "HTML document is saved using ____ extension.",
+    "choices": [".htl", ".html", ".hml", ".htnl"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": ".html"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 10,
+    "question": "The software that can read and render HTML documents is",
+    "choices": ["Server", "Compiler", "Interpreter", "Browser"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Browser"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 12,
+    "question": "Which of the following is not an example of browser?",
+    "choices": ["Netscape Navigator", "Microsoft Bing", "Mozilla Firefox", "Opera"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Microsoft Bing"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 14,
+    "question": "HTML was first proposed in year ___.",
+    "choices": ["1980", "1990", "1995", "2000"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "1990"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 15,
+    "question": "HTML tags are surrounded by ___ brackets",
+    "choices": ["Angle", "Square", "Round", "Curly"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Angle"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 16,
+    "question": "Opening tag of HTML is called",
+    "choices": ["Ending tag", "Starting tag", "Closed tag", "Pair tags"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Starting tag"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 17,
+    "question": "HTML document contain one root tag called ____",
+    "choices": ["HEAD", "Title", "Body", "HTML"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "HTML"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 19,
+    "question": "Is it possible to insert a table within another table?",
+    "choices": [
+      "Yes, but there must be exactly 2 rows and 2 columns in first table.",
+      "Yes, table can be inserted into cell of another table.",
+      "Yes, but there must be no border in second table.",
+      "No, it’s not possible."
+    ],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Yes, table can be inserted into cell of another table."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 20,
+    "question": "What is the usage of alt value in <img> tag?",
+    "choices": ["Alternative text for an Image", "Alternative source of an Image", "Caption of an Image", "All of above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Alternative text for an Image"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 21,
+    "question": "Which of the following is the correct regarding meta tag in HTML?",
+    "choices": ["<meta> … </meta>", "<meta name = ” ” />", "<metadata> … </metadata>", "<metadata name = ” ” />"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<meta name = ” ” />"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 22,
+    "question": "Which of the following is correct to set “Black” color as Background of page?",
+    "choices": ["bgcolor = “#000000″>", "<body background = “#000000″>", "<body Background color = “#000000″>", "All of Above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "bgcolor = “#000000″>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 23,
+    "question": "Which of the following is correct to align H1 tag to Right Alignment",
+    "choices": ["<h1 align = “right”> …", "<h1 alignment = “right”> …", "<h1 tag align = “right”> … </h1>", "H1 cannot make Right Alignment"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<h1 align = “right”> …"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 24,
+    "question": "Which of the following is correct to change font face in Web Page",
+    "choices": ["<font = “font name”> …", "<font name = “font name”> … </font>", "<font face = “font name”> … </font>", "Font Face cannot change"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<font face = “font name”> … </font>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 25,
+    "question": "Which of the following is incorrect regarding Logical styles?",
+    "choices": ["Code looks like teletype", "Sample looks like teletype", "Keyboard looks like teletype", "Variable looks like teletype"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Variable looks like teletype"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 26,
+    "question": "Which of the following is correct character entities for “Copyright” symbol?",
+    "choices": ["&#149;", "&#159;", "&#169;", "&#179;"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "&#169;"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 27,
+    "question": "Which tag is used to display Preformatted texts?",
+    "choices": ["<pre> … </ pre>", "<prefor> … </ prefor>", "<pre text> … </ pre text>", "<pre format> … </ pre format>"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<pre> … </ pre>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 28,
+    "question": "Which is the correct to create an Arabic numeral list",
+    "choices": ["<ul type=”1″>", "<ol type=”1″>", "<il type=”1″>", "<li type=”1″>"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<ol type=”1″>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 29,
+    "question": "How to add alternative text for an Image?",
+    "choices": [
+      "<imgsrc = “http://www.mcqsets.com/brand.png” alternate = “Brand of website” />",
+      "<imgsrc = “http://www.mcqsets.com/brand.png” alt text = “Brand of website” />",
+      "src = “http://www.mcqsets.com/brand.png” alternate text = “Brand of website” />",
+      "<img  src = “http://www.mcqsets.com/brand.png” alt = “Brand of website” />"
+    ],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "<img  src = “http://www.mcqsets.com/brand.png” alt = “Brand of website” />"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 30,
+    "question": "How to embedded Audio Files in HTML?",
+    "choices": [
+      "<embed src = “song.mid” width = “10” height = “15”>",
+      "<embed sound = “mysong.mid” width = “100” height = “15”>",
+      "<embed audio = “mysong.mid” width = “100” height = “15”>",
+      "<embed music = “mysong.mid” width = “100” height = “15”>"
+    ],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<embed src = “song.mid” width = “10” height = “15”>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 31,
+    "question": "In HTML, Uniform Resource Locator (URL) is used to",
+    "choices": [
+      "To create a frame document .",
+      "To create a image map in the webpage.",
+      "To customize the image in the webpage.",
+      "To identify a name or a resource on the internet."
+    ],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "To identify a name or a resource on the internet."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 32,
+    "question": "CSS is an acronym for",
+    "choices": ["Cascading Style Sheet", "Costume Style Sheet", "Cascading System Style", "None of the Above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Cascading Style Sheet"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 33,
+    "question": "Which of the following protocol is not used in the Internet",
+    "choices": ["Telnet", "WIRL", "HTTP", "Gopher"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "WIRL"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 34,
+    "question": "Who invented World Wide Web (WWW)?",
+    "choices": ["Blaise Pascal", "Charles Babbage", "Herman Hollerith", "Tim Berners-Lee"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Tim Berners-Lee"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 35,
+    "question": "What is the use of Web Font in HTML ?",
+    "choices": [
+      "that is the core font that is use to develop Web Pages.",
+      "that enables to use fonts over the Web without installation.",
+      "that is the special font that developed by Microsoft Corp.",
+      "All of the Above."
+    ],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "that enables to use fonts over the Web without installation."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 36,
+    "question": "What is <tt> tag in HTML?",
+    "choices": [
+      "It renders fonts as teletype text font style.",
+      "It renders fonts as truetype text font style.",
+      "It renders fonts as truncate text font style.",
+      "None of the Above."
+    ],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "It renders fonts as teletype text font style."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 37,
+    "question": "What is the use of Forms in HTML?",
+    "choices": [
+      "to display contents of email.",
+      "to display animation effect.",
+      "to collect user’s input.",
+      "None of the Above."
+    ],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "to collect user’s input."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 38,
+    "question": "What is the use of iframe in HTML?",
+    "choices": [
+      "to display a web page within a web page.",
+      "to display a web page with animation effect.",
+      "to display a web page without browser.",
+      "All of the Above."
+    ],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "to display a web page within a web page."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 39,
+    "question": "FTP is an acronym for",
+    "choices": ["File Transaction Protocol", "File Transmission Protocol", "File Translation Protocol", "File Transfer Protocol"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "File Transfer Protocol"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 40,
+    "question": "Which HTML Tag will use to scroll a text in web page?",
+    "choices": ["<marquee> … </marquee>", "<scroll> … </scroll>", "<round> … </round>", "<go> … </go>"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<marquee> … </marquee>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 41,
+    "question": "How to define the link should open in new page in HTML?",
+    "choices": [
+      "<a href = “http://www.mcqsets.com/” target = “blank”>Click Here</a>",
+      "<a href = “http://www.mcqsets.com/” target = “_blank”> Click Here </a>",
+      "<a href = “http://www.mcqsets.com/” target = “#blank”> Click Here </a>",
+      "<a href = “http://www.mcqsets.com/” target = “@blank”> Click Here </a>"
+    ],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<a href = “http://www.mcqsets.com/” target = “_blank”> Click Here </a>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 42,
+    "question": "How to set a picture as a background web page?",
+    "choices": ["<body background= “bgimage.gif”>", "<body background image= “bgimage.gif”>", "<background= “bgimage.gif”>", "<background image= “bgimage.gif”>"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<body background= “bgimage.gif”>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 43,
+    "question": "Which of following HTML Tag will inserting a line break?",
+    "choices": ["<p>", "<line>", "<br>", "<break >"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<br>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 44,
+    "question": "Which of the following tags are related to Table in HTML ?",
+    "choices": ["<table><row><column>", "<table><tr><td>", "<table><head><body>", "<table><header><footer>"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<table><tr><td>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 45,
+    "question": "Which of the following is correct HTML for inserting an image?",
+    "choices": [
+      "<image source= “www.mcqsets.com/admin.jpg” alt= “This is me” />",
+      "<imgsrc= “www.mcqsets.com/admin.jpg” alt= “This is me” />",
+      "<img source= “www.mcqsets.com/admin.jpg” alt= “This is me” />",
+      "<img alt= “This is me”>www.mcqsets.com/admin.jpg"
+    ],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<imgsrc= “www.mcqsets.com/admin.jpg” alt= “This is me” />"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 46,
+    "question": "Choose the correct HTML tag to left-align the content of a cell.",
+    "choices": ["<tdleft>", "<td leftalign>", "valign= “left”>", "<td align= “left”>"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "<td align= “left”>"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 47,
+    "question": "Which tag is used to lists the items with bullets?",
+    "choices": ["<bullet>…</bullet>", "<list>…</list>", "<ul>…", "<ol>…</ol>"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<ul>…"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 48,
+    "question": "Pick the odd out",
+    "choices": ["Table", "TR", "TD", "Form"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Form"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 49,
+    "question": "The first page of a website is called",
+    "choices": ["Design", "Home page", "First page", "Main page"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Home page"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 50,
+    "question": "The version of HTML is",
+    "choices": ["HTML0", "HTML1", "HTML2", "All of these"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of these"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 51,
+    "question": "Head tag is used for?",
+    "choices": ["Writing style", "Writing Java Script", "Including CSS, JS Files", "All of these"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of these"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 52,
+    "question": "How many heading tags are supported by HTML?",
+    "choices": ["3", "4", "5", "6"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "6"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 53,
+    "question": "Which is the largest heading tag?",
+    "choices": ["H1", "H3", "H4", "H6"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "H1"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 54,
+    "question": "Which of the following are attributes of Font tag?",
+    "choices": ["Face", "Size", "Color", "All of above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of above"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 55,
+    "question": "……………………. connects web pages.",
+    "choices": ["Connector", "Link", "Hyperlink", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Hyperlink"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 56,
+    "question": "Internet is ………………………….",
+    "choices": ["a network of networks", "an ocean of resources waiting to be mined", "a cooperative anarchy", "all of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "a network of networks"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 57,
+    "question": "……………… is suitable for remote administration of a computer.",
+    "choices": ["FTP", "Shell", "Remote Procedure Call", "Telnet"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Telnet"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 58,
+    "question": "Title tag is nested within the ………………….. tag.",
+    "choices": ["Body", "Head", "List", "Table"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Head"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 59,
+    "question": "……………….. is a web’s native protocol.",
+    "choices": ["SLIP", "TCP/IP", "HTTP", "PPP"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "HTTP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 60,
+    "question": "The Internet uses the …………………… as the protocol engine.",
+    "choices": ["SLIP", "HTTP", "TCP/IP", "PPP"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "TCP/IP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 61,
+    "question": "A ……………………….. is a symbolic name a network administrator assigns to a machine.",
+    "choices": ["URL", "DNS", "IP address", "Host name"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Host name"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 62,
+    "question": "Which of the following protocol is used for e-mail services.",
+    "choices": ["SMAP", "SMTP", "SMIP", "SMOP"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "SMTP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 63,
+    "question": "…………………. is the incoming e-mail server.",
+    "choices": ["POP", "SMTP", "SMIP", "PPP"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "POP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 64,
+    "question": "………………….. is a uniform naming scheme for locating resources on the web.",
+    "choices": ["URL", "HTTP", "WEBNAME", "RESOURCENAME"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "URL"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 65,
+    "question": "The attribute ……………… of <BODY> tag sets color of hypertext links.",
+    "choices": ["link", "vlink", "alink", "hlink"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "link"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 67,
+    "question": "This is a networking device that passes data between networks having similar functions but dissimilar implementations.",
+    "choices": ["Hub", "Modem", "Gateway", "Repeater"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Gateway"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 68,
+    "question": "In order to connect to ISP’s server you need …….",
+    "choices": ["Hand gloves", "Printer", "User name and Password", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "User name and Password"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 69,
+    "question": "DNS translates ……",
+    "choices": ["domain name into IP", "IP into domain name", "both a & b", "domain name into physical address"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "domain name into IP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 70,
+    "question": "In order to upload a HTML file to a web server, you use",
+    "choices": ["HTTP", "SMTP", "SIP", "FTP"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "FTP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 71,
+    "question": "IEEE stands for ……..",
+    "choices": [
+      "Institute of estimated elevator efficiency",
+      "Institute of electrical and economical engineers",
+      "Institute of Eurasia engineering event",
+      "Institute of electrical and electronics engineers"
+    ],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Institute of electrical and electronics engineers"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 72,
+    "question": "The regional networks are connected to the corporate networks, this is also called as ……..",
+    "choices": ["Backbone", "LAN COM", "WAN COM", "Intranet"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Backbone"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 73,
+    "question": "Once the email is sent, the message is broken into pieces called ………………",
+    "choices": ["Packets", "Process", "Digits", "Bytes"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Packets"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 74,
+    "question": "……………… is known as father of World Wide Web.",
+    "choices": ["Robert Cailliau", "Tim Thompson", "Charles Darwin", "Tim Berners-Lee"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Tim Berners-Lee"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 75,
+    "question": "……………. are the physical meeting points of backbones.",
+    "choices": ["Gateways", "Pathways", "Routers", "Domains"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Routers"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 76,
+    "question": "CuteFTP is an example of …………client program.",
+    "choices": ["FTP", "Telnet", "Web browser", "Mail"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "FTP"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 77,
+    "question": "Which of the following is best suitable for remote administration of a computer?",
+    "choices": ["Telnet", "WAIS", "Browsers", "HTML"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Telnet"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 78,
+    "question": "The leading bit pattern of class B network is ………………",
+    "choices": ["0", "10", "110", "11"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "10"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 79,
+    "question": "The …………………. attribute adds space within each cell.",
+    "choices": ["CELL SPACING", "CELL PADDING", "WIDTH", "ALIGN"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "CELL PADDING"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 80,
+    "question": "Which of the following are two popular protocols that allow home computer users to connect their computers to the internet as per hosts? i) SLIP ii) PPP iii) HTTP iv) SMTP",
+    "choices": ["iii and iv", "ii and iii", "i and ii", "ii and iii"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "i and ii"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 81,
+    "question": "A computer that translates …………………… of another computer into an …………… and vice versa, upon request is known as DNS server.",
+    "choices": [
+      "Domain name and IP address",
+      "Host address and Domain name",
+      "Domain name and server address",
+      "Server name and IP address"
+    ],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Domain name and IP address"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 82,
+    "question": "Identify the uses of URI in HTML.:i) Link to another document or resource ii) Link to external style sheet or script iii) Create an image map",
+    "choices": ["i and ii", "i and iii", "ii and iii", "i , ii and iii"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "i , ii and iii"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 83,
+    "question": "An ordered list is a …………………. list and an unordered list is a …………….. list.",
+    "choices": ["bulleted & numbered", "bulleted & tabular", "tabular & numbered", "numbered & bulleted"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "numbered & bulleted"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 84,
+    "question": "Linking to another place in the same or another web page requires two A (Anchor) tags, the first with the ……………… attribute and the second the ……………….attribute.",
+    "choices": ["NAME & LINK", "LINK & HREF", "HREF & NAME", "TARGET & VALUE"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "NAME & LINK"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 85,
+    "question": "What type of information should you avoid including on your Web site?",
+    "choices": ["Links to sites of interest", "Private personal information", "Work and academic experience", "Graphical"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Private personal information"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 86,
+    "question": "Which of the following web elements should you know about before building your web site?",
+    "choices": ["The web audience", "The operating environment of your ISP", "The operating system of your visitor", "Each consideration should determine your web design choices"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Each consideration should determine your web design choices"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 87,
+    "question": "What is the language of the Web?",
+    "choices": ["Basic", "C++", "MS Visual Basic", "HTML"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "HTML"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 88,
+    "question": "What does an HTML tag do?",
+    "choices": [
+      "It specifies formatting and layout instructions for your web page.",
+      "It hides programming instructions from view.",
+      "It determines the organizational structure of your Web site.",
+      "It connects your web site to an operating environment."
+    ],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "It specifies formatting and layout instructions for your web page."
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 89,
+    "question": "A Web document is broken into sections. What are the tags called that create these sections?",
+    "choices": ["Structure tags", "HTML tags", "Heading tags", "Body tags"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "HTML tags"
+  },
+  {
+    "section": "HTML CSS Javascript MCQ - Part 1",
+    "number": 90,
+    "question": "What should be the first and last pair of tags in your Web document?",
+    "choices": ["<html></html> and <body></body>", "<start><end> and <body></body>", "<head><body> and <title></title>", "<title></title> and <body<>/body>"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<html></html> and <body></body>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 1,
+    "question": "What can be define within a single font tag :",
+    "choices": ["Only face", "Only size", "Only color", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 2,
+    "question": "To change default font face or size of a Web-page, use :",
+    "choices": ["base tag", "basefont tag", "baseface tag", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "basefont tag"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 3,
+    "question": "Select true statement: Statement 1:You can assign multiple valuest to face attribute of font tag. Statement 2: If you specify a font name as face value of font tag, that is not installed on users computer, text will be displayed in browser’s default font.",
+    "choices": ["Only Statement 1 is true.", "Only Statement 2 is true.", "Both, Statement 1 and Statement 2 are true.", "Neither, Statement 1 not Statement 2 is true."],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Both, Statement 1 and Statement 2 are true."
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 4,
+    "question": "There are ……… sets of HTML tags that form the basic structure needed for every HTML file:",
+    "choices": ["one", "two", "three", "four"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "three"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 5,
+    "question": "Which tag is used to a command that is used to instruct the computer (specifically browser)?",
+    "choices": ["<html>", "<div>", "<frame>", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<html>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 6,
+    "question": "The Heading tag and Paragraph tag can be represented as",
+    "choices": ["<head> and <para>", "<hr> and <pr>", "<h1> and <p>", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<h1> and <p>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 7,
+    "question": "The HTML syntax of HTML5 requires a …………. to be specified to ensure that the browser renders the page in standard mode.",
+    "choices": ["DOCTYPE", "HEAD", "BODY", "TITLE"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "DOCTYPE"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 8,
+    "question": "Which tag is used to identify the beginning and end of the HTML document?",
+    "choices": ["<html>", "<body>", "<title>", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<html>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 9,
+    "question": "One of the most popular way is to specify character-set using a",
+    "choices": ["meta data", "meta element", "meta value", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "meta element"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 10,
+    "question": "The doctype declaration for the HTML is",
+    "choices": ["case-sensitive", "case-insensitive", "case-impsensitive", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "case-insensitive"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 11,
+    "question": "The sets of HTML tag is",
+    "choices": ["<html></html>", "<head></head>", "<title></title>", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 12,
+    "question": "A list which is provided with numeric digit is called an",
+    "choices": ["Ordered List", "Unordered List", "Definition List", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Ordered List"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 13,
+    "question": "An Ordered List can be represented as",
+    "choices": ["<ol>", "<ul>", "<li>", "<el>"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<ol>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 14,
+    "question": "A list which is provided with a bullet(a black dot) is called an",
+    "choices": ["Ordered List", "Unordered List", "Definition List", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Unordered List"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 15,
+    "question": "How many list of HTML is/are",
+    "choices": ["one", "two", "three", "four"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "three"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 16,
+    "question": "Defination list can be defined as :",
+    "choices": ["<ol>", "<ul>", "<dl>", "None of the Above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<dl>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 17,
+    "question": "What is the correct HTML for inserting an image?",
+    "choices": ["<image src=”image.gif” alt=”MyImage” />", "<imgsrc=”image.gif” alt=”MyImage” />", "<img alt=”MyImage”>image.gif</img>", "<pic src=”image.gif” alt=”MyImage” />"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<imgsrc=”image.gif” alt=”MyImage” />"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 18,
+    "question": "What does vlinkmean ?",
+    "choices": ["visited link", "unvisited link", "active link", "vertical link"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "visited link"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 19,
+    "question": "one attribute is used to identify an image as image map?",
+    "choices": ["MAP", "SMAP", "ISMAP", "IMAP"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "ISMAP"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 20,
+    "question": "Which one attribute is used to send the coordinate of image to the server When the user clicks on the image?",
+    "choices": ["COORD", "SMAP", "SIMAP", "ISMAP"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "ISMAP"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 21,
+    "question": "If you want to be sure that the image is indeed the same one that the author intended, and hasn’t been modified in any way, which one attribute inside <img> tag is used?",
+    "choices": ["MD", "SD", "NOCHANGE", "LOCK"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "MD"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 22,
+    "question": "The value of MD attribute of <img> tag can be",
+    "choices": ["MD=”MD5:some text”", "MD=”DSS1:some text”", "MD=”SHA512:some text”", "Any of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Any of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 23,
+    "question": "Which one is the mandatory attribute of the <img> tag?",
+    "choices": ["SRC", "HREF", "ID", "ALT"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "SRC"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 24,
+    "question": "Statement1:The<IMG> tag is used to incorporate in-line graphics (typically icons or small graphics) into an HTML document. Statement2:The<IMG> element is also intended for embedding other HTML text. Statement 3:For large figures with captions and text flow see FIG element.",
+    "choices": [
+      "Statement 1 and Statement 2 are true.",
+      "Statement 2 and statement 3 are true.",
+      "Statement 1 and statement 3 are true.",
+      "All three statements are true."
+    ],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Statement 1 and statement 3 are true."
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 25,
+    "question": "Which tag is used to define an image in HTML?",
+    "choices": ["<img>", "<image>", "<pic>", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<img>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 26,
+    "question": "Which type of parameter specify the path where your image is placed?",
+    "choices": ["path", "scr", "src", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "src"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 27,
+    "question": "GIF stands for:",
+    "choices": ["Graph Interchange Format", "Graphics Interlinked Format", "Graphics Interchange Format", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Graphics Interchange Format"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 28,
+    "question": "Which attribute can be used to position the image?",
+    "choices": ["position attribute", "align attribute", "margin attribute", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "align attribute"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 29,
+    "question": "The ……….. and ………….indicates vertical space and horizontal space respectively.",
+    "choices": ["verspace and horspace", "vspace and hspace", "vertspace and hortspace", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "vspace and hspace"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 30,
+    "question": "The <img> tag attributes are",
+    "choices": ["Size attribute", "Spacing attribute", "Border attribute", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 31,
+    "question": "Which attribute define the width and height of the image?",
+    "choices": ["Size attribute", "length attribute", "margin attribute", "All of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Size attribute"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 32,
+    "question": "Which attribute can be created between image and its surrounding text by specifying horizontal and vertical space?",
+    "choices": ["space attribute", "whitespace attribute", "backspace attribute", "All of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "space attribute"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 33,
+    "question": "Which address is include the entire pathname?",
+    "choices": ["Relative", "Mixed", "Absolute", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Absolute"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 34,
+    "question": "PNG stands for:",
+    "choices": ["Portable Network Graphic", "Pivot Network Graphic", "Pichart Network Graphic", "Pythagorus Network Graphic"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Portable Network Graphic"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 35,
+    "question": "HTML provides a functionality to connect one or more pages in web-pages or resources.",
+    "choices": ["link", "src", "node", "tree"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "link"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 36,
+    "question": "The <img> tag is supported by",
+    "choices": ["internet explorer", "mozillafirefox", "google chrome", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 37,
+    "question": "HTML provides which control to use arranging text and also in defining the things more understandable manner.",
+    "choices": ["Tables", "Frames", "Div", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Tables"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 38,
+    "question": "A table contains rows which is defined by",
+    "choices": ["<tr> tag", "<td> tag", "<th> tag", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<tr> tag"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 39,
+    "question": "Table data may contain",
+    "choices": ["text", "links", "tables", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 40,
+    "question": "Which attribute in Html table is used to give a border to your table?",
+    "choices": ["line", "border", "margin-left border", "All of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "border"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 41,
+    "question": "A table with no border",
+    "choices": ["<table border=”0″>", "<table border=”1″>", "<table border=” “>", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<table border=”0″>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 42,
+    "question": "…..tag is used to define a table header.",
+    "choices": ["<th>", "<td>", "<tr>", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "<th>"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 43,
+    "question": "A table can be spanned either in",
+    "choices": ["rows", "columns", "columns or rows", "All of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "columns or rows"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 44,
+    "question": "Which controls will be used in space between table cells?",
+    "choices": ["Celpadding", "Celspacing", "Celshifting", "All of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "Celspacing"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 45,
+    "question": "………. and ………….. are used to define a span in column and rows respectively.",
+    "choices": ["‘colspan’ and ‘rowspan’", "‘celpadding’ and ‘celspacing’", "either (A) or either (B)", "neither (A) or nor (B)"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "‘colspan’ and ‘rowspan’"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 46,
+    "question": "<td> tag stands for:",
+    "choices": ["table dimension", "table date", "table data", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "table data"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 47,
+    "question": "Which element in HTML defines sections of a web page?",
+    "choices": ["table", "div", "frame", "None of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "div"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 48,
+    "question": "The DIV element is a",
+    "choices": ["block-level element", "High-level element", "low-level element", "middle-level element"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "block-level element"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 49,
+    "question": "In HTML the DIV element can be found inside any element that can contain",
+    "choices": ["high elements", "low elements", "flow elements", "All of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "flow elements"
+  },
+  {
+    "section": "Font / Images / Tables / DIV",
+    "number": 50,
+    "question": "From which element has very similar properties to the DIV element?",
+    "choices": ["strong element", "span element", "table element", "All of the above"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "span element"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 1,
+    "question": "Javascript is a ______________",
+    "choices": ["server side scripting language.", "client side scripting language.", "Either (A) or (B)", "Neither (A) nor (B)"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Either (A) or (B)"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 2,
+    "question": "Using which tag we insert an JavaScript in HTML page?",
+    "choices": ["<JavaScript type=”text/javascript”>", "<script type=”text/javascript”>", "<JScript type=”text/javascript”>", "<HTMLScript type=”text/javascript”>"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<script type=”text/javascript”>"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 3,
+    "question": "Which of the following is not true about JavaScript?",
+    "choices": ["It is a scripting language.", "It execute with preliminary compilation.", "It is a lightweight programming language.", "It can be embedded directly into HTML pages."],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "It execute with preliminary compilation."
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 4,
+    "question": "Which of the following JavaScript can do?",
+    "choices": ["JavaScript can react to events.", "JavaScript can manipulate HTML elements.", "JavaScript can be use to validate data.", "All of the Above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the Above"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 5,
+    "question": "What is the output of the following javascript code? <script type=”text/javascript”> x=4+”4″; document.write(x); </script>",
+    "choices": ["44", "8", "4", "Error output"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "44"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 6,
+    "question": "Script in an external file and then include in",
+    "choices": ["<body>…</body> section", "<head>…</head> section", "<html>…</html> section", "<form>…</form> section"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<head>…</head> section"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 7,
+    "question": "Which section where javascript code can be placed?",
+    "choices": ["<body>…</body> section", "<head>…</head> section", "Either (A) or (B)", "Neither (A) nor (B)"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "Either (A) or (B)"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 8,
+    "question": "What is the correct syntax for referring to an external script called ” abc.js”?",
+    "choices": ["<script href=” abc.js”>", "<script name=” abc.js”>", "<script src=” abc.js”>", "None of the above"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "<script src=” abc.js”>"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 9,
+    "question": "What is meant by “this” keyword in JavaScript?",
+    "choices": ["It refers current object", "Itreferes previous object", "It is variable which contains value", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "It refers current object"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 10,
+    "question": "Who is to be introduced JavaScript?",
+    "choices": ["Microsoft", "IBM", "Google", "Sun Microsystems"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Microsoft"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 11,
+    "question": "In JavaScript, common uses is",
+    "choices": ["Interact with user using prompt(), alter", "Client side validation like checking for", "Creation of complex user interfaces.", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 12,
+    "question": "_________ keyword is used to declare variables in javascript.",
+    "choices": ["Var", "Dim", "String", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Var"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 13,
+    "question": "Which one is the advantages of JavaScript?",
+    "choices": ["Simplicity", "Speed", "Versatility", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 14,
+    "question": "Javascript has capability to interact with",
+    "choices": ["user", "control the browser", "alter the document content", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 15,
+    "question": "Being client-side reduces the demand on the website server",
+    "choices": ["Server Load", "Client Load", "endclient load", "endserver load"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Server Load"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 16,
+    "question": "The JavaScript file inside the ________ tag in ________ section of HTML document.",
+    "choices": ["</script>,</head>", "<script>,<head>", "<script>,<title>", "<script>,<body>"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "<script>,<head>"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 17,
+    "question": "Which is the extension of javascript file?",
+    "choices": [".jc", ".java", ".js", ".jp"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": ".js"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 18,
+    "question": "_____ JavaScript statements embedded in an HTML page can respond to user events such as mouse-clicks, form input, and page navigation.",
+    "choices": ["Client-side", "Server-side", "Local", "Native"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "Client-side"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 19,
+    "question": "What is the correct JavaScript syntax to write “Hello World”?",
+    "choices": ["System.out.println(“Hello World”)", "println (“Hello World”)", "document.write(“Hello World”)", "response.write(“Hello World”)"],
+    "answer_letter": "c",
+    "answer_index": 2,
+    "answer_text": "document.write(“Hello World”)"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 20,
+    "question": "Which operator can be used to Joins(concatenates) two strings and assigns the joined string to the first operand?",
+    "choices": ["&", "+=", "+", "&&"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "+="
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 21,
+    "question": "What language defines the behavior of a web page?",
+    "choices": ["HTML", "CSS", "XML", "Java Script"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "Java Script"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 22,
+    "question": "A single-line comments starts with",
+    "choices": ["/", "//", "\\*", "\\\\"],
+    "answer_letter": "b",
+    "answer_index": 1,
+    "answer_text": "//"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 23,
+    "question": "A function in javascript takes",
+    "choices": ["parameters", "operates on them", "returns the required result", "All of the above"],
+    "answer_letter": "d",
+    "answer_index": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 24,
+    "question": "Which event can be generated when data changes in a control,such as a text field?",
+    "choices": ["onchange", "onwrite", "changetext", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "onchange"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 25,
+    "question": "Which event can be generated when the mouse leaves an element?",
+    "choices": ["onmouseout", "onmousedown", "onmousemove", "onmouseover"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "onmouseout"
+  },
+  {
+    "section": "JavaScript MCQ",
+    "number": 26,
+    "question": "Which event can be generated when a drag-and-drop operation is undertaken?",
+    "choices": ["ondrop", "ondrag", "ondragdrop", "None of the above"],
+    "answer_letter": "a",
+    "answer_index": 0,
+    "answer_text": "ondrop"
+  }
+]
