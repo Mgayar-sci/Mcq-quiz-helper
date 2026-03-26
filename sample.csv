@@ -1,0 +1,21 @@
+printIndex,section,question,choice_A,choice_B,choice_C,choice_D,answer_letter,answer_index,answer_text
+1,HTML CSS Javascript MCQ - Part 1,…………………. is the incoming e-mail server.,PPP,SMTP,SMIP,POP,d,3,POP
+2,HTML CSS Javascript MCQ - Part 1,How to add alternative text for an Image?,<img  src = “http://www.mcqsets.com/brand.png” alt = “Brand of website” />,<imgsrc = “http://www.mcqsets.com/brand.png” alternate = “Brand of website” />,<imgsrc = “http://www.mcqsets.com/brand.png” alt text = “Brand of website” />,src = “http://www.mcqsets.com/brand.png” alternate text = “Brand of website” />,a,0,<img  src = “http://www.mcqsets.com/brand.png” alt = “Brand of website” />
+3,HTML CSS Javascript MCQ - Part 1,HTML document can contain,Attributes,Plain text,Tags,All of these,d,3,All of these
+4,HTML CSS Javascript MCQ - Part 1,Opening tag of HTML is called,Ending tag,Pair tags,Starting tag,Closed tag,c,2,Starting tag
+5,HTML CSS Javascript MCQ - Part 1,CSS is an acronym for,Costume Style Sheet,Cascading System Style,None of the Above,Cascading Style Sheet,d,3,Cascading Style Sheet
+6,HTML CSS Javascript MCQ - Part 1,Which of the following is used to create web pages?,DTD,HTML,JVM,C,b,1,HTML
+7,HTML CSS Javascript MCQ - Part 1,Page designed in HTML is called a,Front Page,Server Page,Web Page,Yellow Page,c,2,Web Page
+8,Font / Images / Tables / DIV,Which element in HTML defines sections of a web page?,div,frame,table,None of the above,a,0,div
+9,Font / Images / Tables / DIV,HTML provides which control to use arranging text and also in defining the things more understandable manner.,Tables,Frames,None of the above,Div,a,0,Tables
+10,Font / Images / Tables / DIV,Which tag is used to define an image in HTML?,<image>,<pic>,<img>,None of the above,c,2,<img>
+11,Font / Images / Tables / DIV,…..tag is used to define a table header.,<tr>,<th>,None of the above,<td>,b,1,<th>
+12,Font / Images / Tables / DIV,A list which is provided with a bullet(a black dot) is called an,None of the above,Unordered List,Ordered List,Definition List,b,1,Unordered List
+13,Font / Images / Tables / DIV,Which attribute can be created between image and its surrounding text by specifying horizontal and vertical space?,whitespace attribute,space attribute,All of the above,backspace attribute,b,1,space attribute
+14,Font / Images / Tables / DIV,The <img> tag is supported by,google chrome,internet explorer,mozillafirefox,All of the above,d,3,All of the above
+15,JavaScript MCQ,Which of the following JavaScript can do?,All of the Above,JavaScript can manipulate HTML elements.,JavaScript can react to events.,JavaScript can be use to validate data.,a,0,All of the Above
+16,JavaScript MCQ,"_____ JavaScript statements embedded in an HTML page can respond to user events such as mouse-clicks, form input, and page navigation.",Local,Native,Client-side,Server-side,c,2,Client-side
+17,JavaScript MCQ,What is meant by “this” keyword in JavaScript?,It is variable which contains value,None of the above,It refers current object,Itreferes previous object,c,2,It refers current object
+18,JavaScript MCQ,The JavaScript file inside the ________ tag in ________ section of HTML document.,"<script>,<head>","</script>,</head>","<script>,<title>","<script>,<body>",a,0,"<script>,<head>"
+19,JavaScript MCQ,Script in an external file and then include in,<html>…</html> section,<head>…</head> section,<body>…</body> section,<form>…</form> section,b,1,<head>…</head> section
+20,JavaScript MCQ,Javascript is a ______________,server side scripting language.,Either (A) or (B),client side scripting language.,Neither (A) nor (B),b,1,Either (A) or (B)
